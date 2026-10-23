@@ -1,0 +1,13 @@
+project_id = "trustvault"
+[functions.document-download]
+verify_jwt = false
+[functions.document-grant]
+verify_jwt = false
+[functions.document-upload]
+verify_jwt = false
+[functions.document-preview]
+verify_jwt = false
+[functions.users-search]
+verify_jwt = false
+[functions.user-role]
+verify_jwt = false

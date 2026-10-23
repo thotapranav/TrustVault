@@ -1,0 +1,3 @@
+{ "name":"trustvault","private":true,"type":"module","scripts":{"dev":"vite","build":"tsc --noEmit && vite build","typecheck":"tsc --noEmit","test":"vitest"},
+ "dependencies":{"@supabase/supabase-js":"~2.100.0","react":"^18.3.1","react-dom":"^18.3.1","lucide-react":"^0.439.0"},
+ "devDependencies":{"@types/react":"^18.3.3","@types/react-dom":"^18.3.0","@vitejs/plugin-react":"^4.3.1","typescript":"^5.5.4","vite":"^6.4.5","vitest":"^4.1.12"} }
